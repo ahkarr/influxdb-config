@@ -1,0 +1,16 @@
+sysadmin@optimal9:~$ sudo influx setup
+> Welcome to InfluxDB 2.0!
+? Please type your primary username admin
+? Please type your password ************
+? Please type your password again ************
+? Please type your primary organization name optimal9
+? Please type your primary bucket name optimal0
+? Please type your retention period in hours, or 0 for infinite 0
+? Setup with these parameters?
+  Username:          admin
+  Organization:      optimal9
+  Bucket:            optimal0
+  Retention Period:  infinite
+ Yes
+User	Organization	Bucket
+admin	optimal9	optimal0
